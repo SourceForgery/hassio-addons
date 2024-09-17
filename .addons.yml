@@ -4,4 +4,4 @@ addons:
   duc2mqtt:
     repository: SourceForgery/duc2mqtt
     target: duc2mqtt
-    image: sourceforgery/duc2mqtt:v0.0.2
+    image: sourceforgery/duc2mqtt
