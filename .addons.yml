@@ -3,5 +3,5 @@ channel: stable
 addons:
   duc2mqtt:
     repository: SourceForgery/duc2mqtt
-    target: duc2mqtt
+    target: duc2mqtt-addon
     image: sourceforgery/duc2mqtt
